@@ -55,13 +55,13 @@ h2 {
 
 h3 {
     font-family: 'Manrope', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
     font-weight: 100;
     color: white;
     margin-left: 20%;
     margin-right: 20%;
-    line-height: 24px;
+    line-height: 22px;
     width:40%;
     letter-spacing: 1px;
     opacity: 60%;
@@ -231,4 +231,8 @@ nav li {
 nav #home {
     float: left; 
     font-size: 50px;
+}
+
+.result{
+    color: #00f6d9;
 }
